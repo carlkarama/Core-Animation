@@ -51,6 +51,7 @@
 		2F07FEEB28C89E7100D6E38D /* Core AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Core AnimationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F07FEEF28C89E7100D6E38D /* Core_AnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Core_AnimationUITests.swift; sourceTree = "<group>"; };
 		2F07FEF128C89E7100D6E38D /* Core_AnimationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Core_AnimationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2F07FF0028C973EA00D6E38D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +110,7 @@
 				2F07FED928C89E7000D6E38D /* LaunchScreen.storyboard */,
 				2F07FEDC28C89E7000D6E38D /* Info.plist */,
 				2F07FED428C89E6E00D6E38D /* Core_Animation.xcdatamodeld */,
+				2F07FF0028C973EA00D6E38D /* README.md */,
 			);
 			path = "Core Animation";
 			sourceTree = "<group>";
